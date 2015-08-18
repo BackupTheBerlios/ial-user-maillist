@@ -1,0 +1,17 @@
+From fdoffizi at libero.it  Thu Jan 12 17:55:40 2006
+From: fdoffizi at libero.it (Francesco)
+Date: Thu, 12 Jan 2006 17:55:40 +0100
+Subject: [Ial-user] initial: how to use it correctly
+Message-ID: <200601121755.40950.fdoffizi@libero.it>
+
+I installed initial cause I had not been able to set ial to catch all my fn 
+keys (toshiba 5200-801) and used it to set up other rules but I noticed that 
+they work only if initial is loaded in systray.
+Is there a way to convert .initial settings in ial static rules?
+Where can I find some documentation about ial configuration?
+
+Thanks
+
+Francesco
+
+
